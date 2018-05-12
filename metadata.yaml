@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34415
     wikipedia: http://en.wikipedia.org/wiki/Samuel_Marinus_Zwemer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15658#Topsy-Turvy-LandArabia-Pictured-for-Children
 gutenberg_issued: '2005-04-19'
 gutenberg_type: Text
 identifiers:
