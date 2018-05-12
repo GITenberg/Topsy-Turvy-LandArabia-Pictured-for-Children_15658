@@ -1,0 +1,36 @@
+_repo: Topsy-Turvy-LandArabia-Pictured-for-Children_15658
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Zwemer, Amy E.
+    aliases:
+    - Zwemer, Amy E. Wilkes
+    - Zwemer, Samuel, Mrs.
+    gutenberg_agent_id: '6187'
+    url: http://www.gutenberg.org/2009/agents/6187
+  - agent_name: Zwemer, Samuel Marinus
+    alias: Zwemer, S. M. (Samuel Marinus)
+    birthdate: 1867
+    deathdate: 1952
+    gutenberg_agent_id: '34415'
+    url: http://www.gutenberg.org/2009/agents/34415
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Marinus_Zwemer
+description: ''
+gutenberg_issued: '2005-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15658'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Arabian Peninsula -- Description and travel'
+title: 'Topsy-Turvy Land
+
+  Arabia Pictured for Children'
+url: http://www.gutenberg.org/ebooks/15658
